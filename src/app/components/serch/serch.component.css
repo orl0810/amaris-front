@@ -1,0 +1,14 @@
+.container {
+    width: 70%;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.searcher {
+    width: 70%;
+    margin: auto;
+}
+
+mat-form-field {
+    width: 100%;
+}
